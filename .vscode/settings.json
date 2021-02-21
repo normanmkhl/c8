@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "assert.h": "c",
+        "sdl.h": "c",
+        "chip8screen.h": "c"
+    }
+}
