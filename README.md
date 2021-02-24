@@ -1,10 +1,10 @@
 # CHIP-8-Emulator
 A CHIP-8 emulator implemented in C
 
-![Space Invaders](doc/screenshots/invaders.png "Space Invaders")
+![Space Invaders](screenshot/invaders.png "Space Invaders")
 *Space Invaders*
 
-![Pong](doc/screenshots/pong.png "Pong")
+![Pong](screenshot/pong.png "Pong")
 *Pong*
 
 
