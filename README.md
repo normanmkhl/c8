@@ -8,6 +8,9 @@ A CHIP-8 emulator implemented in C
 ![Pong](screenshot/pong.png "Pong")
 *Pong*
 
+(screenshot/brix.png "Pong")
+*Brix*
+
 
 ## Compiling and Running
 
