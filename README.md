@@ -5,15 +5,15 @@ CHIP-8 is an interpreted programming language, developed by Joseph Weisbecker. I
 
 ![Space Invaders](screenshot/invaders.png "Space Invaders")
 
-*Space Invaders*
+### *Space Invaders*
 
 ![Pong](screenshot/pong.png "Pong")
 
-*Pong*
+### *Pong*
 
 ![Brix](screenshot/brix.png "Brix")
 
-*Brix*
+### *Brix*
 
 ## References
 
