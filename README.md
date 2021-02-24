@@ -2,6 +2,7 @@
 A CHIP-8 emulator implemented in C
 
 ![Space Invaders](screenshot/invaders.png "Space Invaders")
+
 *Space Invaders*
 
 ![Pong](screenshot/pong.png "Pong")
