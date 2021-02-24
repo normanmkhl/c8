@@ -9,7 +9,7 @@ CHIP-8 emulator implemented in C
 
 *Pong*
 
-![Brix](screenshot/brix.png "Pong")
+![Brix](screenshot/brix.png "Brix")
 
 *Brix*
 
